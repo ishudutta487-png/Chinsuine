@@ -1,17 +1,3 @@
-/* CSS Document 
-Rewrote the whole CSS code by myself and removed the AI fluff and something I never know about. I also added a new font called "Pixelify Sans" to make the questions bold and more readable.
-At first I didn't write by myself because I was unfamiliar and lazy with CSS code, but now I am more familiar with it and I can write it by myself. But yea, The Whole HTML Code was written by me itself and the logic there.
-Learnt about
-circle images
-classes
-border spaces
-alignment
-sizing
-adding css code in html tags itself
-background color adding
-and yea one of the best feature I learnt about was clear: both property which forces an element to drop completely below any floating elements.
-I can confidently say that I have learnt the foundation of CSS now and I can write my own CSS code without any help from AI. I will continue to learn more about CSS and I will be able to write more complex CSS code in the future.
-*/
 h1{
     font-family: 'Pinyon Script', cursive;
     font-size: 5em;
