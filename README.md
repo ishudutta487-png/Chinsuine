@@ -1,16 +1,36 @@
-# BobaPedia
-A Boba Wiki Website with the possible renovation and engineering fixes for the renowned BUBBLE TEA.
-BobaPedia is a one-page, minimalist web project which explains aspects of bubble tea culture and suggests engineering solutions to common boba problems. It includes:
-* **The Quick Boba Wiki:** the feud over its 1980s origins, the decibel scales relating to sweetness, and the classification of toppings.
-* **The Starter Pack:** It ensures that first-time users have winning outcomes so that they won't end up with a bitter herbal mush by accident.
-* **Tactical Drinking:** learn the 45° Harpoon Stab, the 3:1 Slurp Ratio, and the Anti-Ice Wall Twist.
-* **Psychology Of Boba Flavours:** What your choice of boba drink reveals about your personality.
-* **Engineering Solutions for a BETTER Boba:** I came up with 3 effective solutions to make Boba a better drink by a little upgrade.
-* 
-Change 1 - Removed AI Generated CSS code.
+# 🥢 Chinsuine — Chinese Culinary Encyclopedia & Restaurant Web App
 
-Change 2 - Turned it into Dark theme to reduce eye strain
+Welcome to the **Chinsuine** repository! Born from a playful culinary wiki experiment (`BobaPedia`) and evolved into an editorial Chinese restaurant & food culture web experience, **Chinsuine** blends high-impact visual design with an interactive guide to *wok hei* physics, dim sum etiquette, spice profiling, and takeout container engineering.
 
-**Check it out** **-** https://ishudutta487-png.github.io/BobaPedia/
+---
 
-<img width="1893" height="650" alt="image" src="https://github.com/user-attachments/assets/93b68282-1def-42b7-9a05-2ecbd12a65ad" />
+## 📚 Table of Contents
+
+- [✨ Project Overview](#-project-overview)
+- [🌐 Live Demo](#-live-demo)
+- [🔥 Features](#-features)
+- [🛠️ Tech Stack](#-tech-stack)
+- [⚙️ Getting Started / 📥 Installation](#-getting-started--installation)
+- [📌 Usage](#-usage)
+- [🎨 Design & Architecture Highlights](#-design--architecture-highlights)
+- [🤝 Contributing](#-contributing)
+- [⭐ Support](#-support)
+- [📄 License](#-license)
+- [📬 Contact Us](#-contact-us)
+
+---
+
+## ✨ Project Overview
+
+**Chinsuine** is more than a standard restaurant menu—it is an interactive digital dining room and bite-sized encyclopedia celebrating Chinese culinary craft. From breaking down the 1,000°C chemistry of *Wok Hei* to profiling diners based on their dim sum and hotpot orders, the site pairs editorial typography with responsive, interactive UI components.
+
+> **🎯 Goal:** Create a bold, memorable, and responsive web experience that combines modern editorial web design with witty culinary storytelling.
+
+---
+
+## 🌐 Live Demo
+
+🔗 **Check out the live version of the website:** [Chinsuine Live](https://ishudutta487-png.github.io/Chinsuine)
+
+---
+
