@@ -11,12 +11,9 @@ Welcome to the **Chinsuine** repository! Born from a playful culinary wiki exper
 - [🔥 Features](#-features)
 - [🛠️ Tech Stack](#-tech-stack)
 - [⚙️ Getting Started / 📥 Installation](#-getting-started--installation)
-- [📌 Usage](#-usage)
-- [🎨 Design & Architecture Highlights](#-design--architecture-highlights)
-- [🤝 Contributing](#-contributing)
-- [⭐ Support](#-support)
-- [📄 License](#-license)
-- [📬 Contact Us](#-contact-us)
+
+
+
 
 ---
 
