@@ -1,67 +1,55 @@
-# 🥢 Chinsuine — Chinese Encyclopedia & Restaurant Web App
+**Hi** there, Myself Ishaaaaaaaan! 
+This is a Chinese themed cuisine based restaurant which I made very long ago, I made the website with the idea about making something with combination of a food catalog and a Wikipedia.
 
-Welcome to the **Chinsuine** repo! Born from a crazy wiki experiment (`BobaPedia`) and evolved into a Chinese restaurant & food culture web experience, **Chinsuine** blends dark-mode visual design with a witty guide to Sichuan spice scales, dim sum etiquette, and takeout container engineering.
+So yeah, I named it Chinsuine!!! Hehe, the name sounds cool to me. An acronym made for a Chinese Cuisine? Yeah exactly! Also the term is invented by me haha.
+Maybe it's a simple web for y'all but to me it seems really special guyss, if you wanna improve, you are welcome to give suggestions about it.
 
----
+What is it all about?
 
-## 📚 Table of Contents
+Uhhhh actually I started with the brief information about the chinese dishes in a few sentences.
 
-- [✨ Project Overview]
-- [🌐 Live Demo]
-- [🔥 Features]
-- [🛠️ Tech Stack]
-- [📸 Screenshots]
+Then it moves on to a hotness and spiciness level of dishes by percentages, which I call the **Sichuan Mala Scoville Scale** 
+Like the Sichuan Peppercorn mentioned there with a 100%.
 
----
+Next, then I came to the taxonomy of a usual superb chinese cuisine (cuz gng gotta know what really lies in that chinese blissful dish.
 
-## ✨ Project Overview
+Then I came up with a starter's pack with my favourite 4 dishes mentioning an optimal order for each serve.
 
-**Chinsuine** is more than a standard restaurant menu—it is an editorial digital dining room and bite-sized encyclopedia celebrating Chinese culinary craft. From breaking down the Sichuan *Mala* Scoville scale to profiling diners based on their dim sum and hotpot orders, the site pairs expressive Google Fonts with a custom circular-photo dark-mode layout.
-A webpage based on a cafe made by me over hours of structuring and designing.
+I talked about tips on having a chinsuine like a well-behaved/gentle person.
 
-> **🎯 Goal:** Create a bold, memorable, and clean web experience that combines dark-mode editorial styling with witty culinary storytelling.
+A Psychological analysis on their food choices.
 
----
+AND LASTTTTTTTTTTTTLYYYYYYY..............
 
-## 🌐 Live Demo
+**How Chinese Takeout Can Be Made Better?**
 
-🔗 **Check out the live version of the website:** [Chinsuine Live](https://ishudutta487-png.github.io/Chinsuine)
-
----
-
-## 🔥 Features
-- A Quick WiKi which tells how Chinese food came up and got globalised.
-- The Spice scale (Sichuan Mala Scoville Scale) talking about the spice scale of each cuisine
-- The Starter Pack, which suggests new people discovering the taste of chinese bliss.
-- How to Eat Dim Sum Like a Pro, few tips before you start munching over your food. Hope you don't spill anything. 
-- WHAT YOUR ORDER SAYS ABOUT YOU, the psychology of your food choice.
-- How Chinese Takeout Can Be Made Better?, the bro-engineering solutions by me to improve chinese food takeout and delivery.
-
----
-
-## 🛠️ Tech Stack
-
-- **Structure:** HTML5 (`index.html`)
-- **Styling:** CSS (`style.css` — custom circular image masks, float clearing, and dark-mode theme)
-- **Typography:** Google Fonts (`Pinyon Script` and `Pixelify Sans`)
-- **Deployment:** GitHub Pages
-- **A cup of coffee**
-
----
-
-## X/ My Struggles
-- Figuring how to give different elements on different section of the web, then I learned about <div> tags.
-- Learnt how to use google fonts in html.
-- Aligning Pictures
-- Making images Circle shaped.
-- Text Outline color.
-
----
-
-## 📸 Screenshots
+I laid emphasis on improving food takeaway and delivery by sharing some ideas with some engineering thoughts.
 
 
-<img width="1899" height="971" alt="image" src="https://github.com/user-attachments/assets/90e9dd12-5c5e-4d75-9511-e07f5149cf10" />
- <img width="1894" height="967" alt="image" src="https://github.com/user-attachments/assets/7db67cea-6124-4b1b-baf6-0c04e4e930ba" />
-<img width="1897" height="975" alt="image" src="https://github.com/user-attachments/assets/2991521d-07ce-426b-af0d-181884f2a938" />
-<img width="1901" height="973" alt="image" src="https://github.com/user-attachments/assets/aa3172bd-6528-4351-a371-281237a13b5e" />
+
+That's all what CHINSUINE COVERS UPPPPPPPPPPP.
+
+
+
+
+
+**My Struggles/Learnings** (Aka what I'm proud to get over that problem)
+
+Learning CSS
+
+How to CSS File with the HTML File
+
+Aligning text and Pictures
+
+How to provide specific elements to different sections of the Web
+
+Giving circle cut to the images
+
+Misalignment of text
+
+Adding of Fonts.
+
+
+
+Some screenshots:
+
