@@ -14,25 +14,30 @@
 <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap" rel="stylesheet">
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap');
-</style>
+</style> 
 </head>
 <body>
     
-    <h1 style="color:rgb(255, 43, 43)" class="pinyon-script-regular">Chinsuine</h1>
+    <div>
+    <h1 style="color:rgb(255, 43, 43)" class="pinyon-script-regular glow-text" >Chinsuine</h1>
     <h2>Where Chinese cuisine makes bold magic.</h2>
+    <img src="dante.png" alt="Star sticker" id="dante-img" class="dante-sticker">
     <h3>Chinsuine is your snappy, late-night guide to roaring 1,000°C wok hei, 18-pleat soup dumplings, and rescuing soggy takeout boxes.</h3>
-
+    </div>
     <h2>THE QUICK WIKI OF OUR HISTORY</h2>
     
     <div class="topic-container">
         <div class="topic-row">
             <div class="topic-text">
-                <h3>The 1980s Origin Feud</h3>
-                <div>
+                <h3>The 2AM Spark</h3>
+                
                     <img src="https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=500&q=80" alt="Restora Origin" class="circle-imageright">
-                </div>
-                <p>Two Taiwanese tea shops fought a 10-year courtroom war claiming they invented boba: Chun Shui Tang (manager casually dumped sweetened fen yuan balls into cold Assam during a boring meeting) vs. Hanlin Tea Room (founder bought white cassava balls from a local market). The court ruled: Neither owns it; boba belongs to humanity.</p>
-                <h4>Lesson: Boredom in tea rooms creates global revolutions.</h4>
+                <img src="dragon.png" alt="Star sticker" class="sticker-left">
+                <p>Chinsuine started in a cramped test kitchen with one dented carbon-steel wok, three jars of fermented black beans, and a refusal to accept soggy, watered-down late-night takeout. After 47 scorched batches of chili oil and one minor smoke-alarm incident, the signature house glaze was born.</p>
+                <h4>Lesson: Great recipes are usually just stubbornness over high heat.</h4>
+            </div>
+        </div>
+    </div>
 
         <div class="topic-row">
             <div class="topic-text">
@@ -40,6 +45,9 @@
                  </div>
                  <div>
             <img src="https://b.zmtcdn.com/data/pictures/7/19718387/c09457dbfbee48089972314d9d864983_featured_v2.jpg" alt="Sweetness Decibel Scale" class="circle-imageleft">
+                <p>Chinsuine's signature mala (numbing-spicy) dishes are measured on a 0-100% Scoville scale. The higher the percentage, the more your taste buds will tingle and your forehead will sweat.</p>
+                <h4>Tip: Start at 30% and work your way up to avoid a fiery regret.</h4>
+        </div>
         </div>
                 <p>Menus advertise Mild, Medium, Hot, and Authentic Sichuan. The real translations:
                 <br>• 0%: Cantonese velvet—zero heat, pure ginger and scallion harmony.
@@ -133,6 +141,7 @@
                 <h4>Lifehack: Rest chopsticks horizontally on the ceramic stand, never upright!</h4>
             </div>
         </div>
+    </div>
 
    <h2>WHAT YOUR ORDER SAYS ABOUT YOU</h2>
 <h4>Pure behavioral profiling based on the dishes you point at when the menu hits the table.</h4>
@@ -210,6 +219,26 @@
     <p>THE END 
         <br>bye bye — come hungry next time 🥢
     </p>
+
+
+
+    <audio id="dante-audio" src="dante.mp3" preload="auto"></audio>
+
+<script>
+  const danteImg = document.getElementById('dante-img');
+  const danteAudio = document.getElementById('dante-audio');
+
+  danteImg.addEventListener('click', () => {
+
+    danteAudio.currentTime = 0;
+    danteAudio.play();
+    danteImg.classList.add('is-playing');
+  });
+
+  danteAudio.addEventListener('ended', () => {
+    danteImg.classList.remove('is-playing');
+  });
+</script>
 
 </body>
 </html>
