@@ -49,7 +49,37 @@ Misalignment of text
 
 Adding of Fonts.
 
+Adding Glowing effect to the Title "Chinsuine" !
+
+Adding 2 sticker; Dante and a cute dragon
+
+Making Dante speak; I had to literally google the properties out to learn then I got to know it's all JavaScript T_T....
 
 
-Some screenshots:
+
+**SCREEENSHOTSSSSSSSSSSSS**
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2cc265cc-ee1a-4aee-8a03-3f19c006a2fd" />
+
+Try clicking on DANTE, hehe..
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a35d05f0-14e1-49f0-9327-ac9553c3a88d" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bf641492-8cb7-4caf-b9f8-dd20f9824760" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5cf3bc56-cf1d-42e0-9d55-0eca667583be" />
+
+
+**TECH STACK**
+I used:
+
+HTML
+
+
+CSS (Vanilla)
+
+JavaScript (in-built in HTML with <script> tag)
+
+And a patient mind....
+
 
